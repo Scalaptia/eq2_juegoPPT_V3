@@ -27,7 +27,7 @@ int main()
                 break;
 
             case 8:
-                printf("Gano el jugador 3, tijeras cortan papel");
+                printf("Gano el jugador 2, tijeras cortan papel");
                 break;
 
             case 3:
@@ -35,7 +35,7 @@ int main()
                 break;
 
             case 9:
-                printf("Gano el jugador 3, tijeras cortan papel");
+                printf("Gano el jugador 1, tijeras cortan papel");
                 break;
 
             default:
